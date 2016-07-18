@@ -10,3 +10,13 @@ Yorsafety Job Logging solution
 + Archive & view responses
 
 + Allocated actions awaiting completion to be viewed via dashboards of the appropriate users.
+
+**Key features of existing Health & Safety Task Management solutions**
+-
++ Clear distinction between Tasks and Actions - one task may generate several actions (e.g. 'Check item annually' is a *Task*,  annual occurrences of said check are the *Actions*)
+ 
++ Tasks/actions assigned on a role - not individual - basis, to allow for continuity through personnel/responsibility changes.
+
++ Delegating responsibility for task
+
++ Audit trail for each task
